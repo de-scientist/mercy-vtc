@@ -25,7 +25,7 @@ The centre has historically supported learners—especially young women—who ma
 
 ---
 
-## 🎯 Mission & Vision
+## 🎯 Mission & àq
 
 **Mission:**  
 To empower students through technical and social skills training for holistic human development and self-reliance.
@@ -87,7 +87,7 @@ Near Kapenguria along the Kitale–Lodwar road
 
 ## ⚙️ Tech Stack (Website)
 
-- **Framework:** Next.js  
+- **Framework:** Next.js + TS
 - **Styling:** Tailwind CSS  
 - **Deployment:** Vercel  
 
