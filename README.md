@@ -25,7 +25,7 @@ The centre has historically supported learners—especially young women—who ma
 
 ---
 
-## 🎯 Mission & àq
+## 🎯 Mission & Vision
 
 **Mission:**  
 To empower students through technical and social skills training for holistic human development and self-reliance.
