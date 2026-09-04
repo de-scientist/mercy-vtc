@@ -87,7 +87,7 @@ Near Kapenguria along the Kitale–Lodwar road
 
 ## ⚙️ Tech Stack (Website)
 
-- **Framework:** Next.js + TS
+- **Framework:** Next.js + TypeScript
 - **Styling:** Tailwind CSS  
 - **Deployment:** Vercel  
 
